@@ -1,0 +1,105 @@
+header{
+    
+    margin-top: -20px;
+    }
+
+   #bkig{
+
+    float: left;
+   }
+
+
+    body{
+        background-color: rgb(57, 177, 207);
+       width: fit-content;
+       height: fit-content;
+        
+    }
+
+    .hnav{
+        background-color: rgb(255, 255, 255);
+        height: 60px;
+        margin-top: -1.5%;
+        border: 2px solid black;
+    }
+
+    .hnav2{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: row;
+        
+    }
+
+    .button {
+        background-color: #ffffff;
+        border: none;
+        color: rgb(0, 0, 0);
+        padding: 16px 32px;
+        text-align: center;
+        font-size: 16px;
+        margin: 4px 2px;
+        opacity: 1;
+        transition: 0.3s;
+        display: inline-block;
+        text-decoration: none;
+        cursor: pointer;
+        border-radius: 100px;
+      }
+
+      .button:hover {background-color: rgb(0, 0, 0); color: white;}
+    #info{
+       margin-top: 5px;
+        
+    }
+
+    #help{
+        margin-top: 5px;
+       
+    }
+
+    #payForm{   
+        margin-top: 5px;
+    
+    }
+    #imgry{
+        margin-top: 5px;
+        
+
+    }
+
+
+      
+
+
+
+    #pf{
+    margin: auto;
+    border: 8px solid black;
+    margin-top: 3%;
+    width:500px;
+    height:auto;
+    font-size: 18px;
+    
+    text-align: justify;
+    background-color: #8b8b8b;
+
+    }
+    
+    #scar{
+        float: right;
+        margin-top: 90px;
+    }
+
+    footer{
+        margin-top: 0%;
+        align-items: center;
+        bottom: 0;
+        color: white;
+        display: flex;
+        margin-bottom: 0%;
+        background-color: rgb(0, 0, 0);
+        justify-content: space-between;
+    }
+
+    
