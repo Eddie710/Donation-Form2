@@ -103,3 +103,15 @@ header{
     }
 
     
+    #submt{
+        margin-top: 20px;
+        margin-left: 900px;
+        border: 10px solid black;
+    }
+
+    input{
+        float: right;
+    }
+    select{
+        float: right;
+    }
